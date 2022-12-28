@@ -1,0 +1,76 @@
+.business-card {
+    width: 300px;
+    margin: 20px;
+    background-color:#1A1B21;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.profile-img{
+    width: 300px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+p {
+    font-size: small;
+    color:  white;
+}
+
+h1 {
+    font-size: medium;
+    color: white;
+}
+
+.profile-info{
+    line-height: 8px;
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+.profile-role {
+    color: #F3BF99;
+}
+
+.btn-inline-group{
+    text-align: center;
+}
+
+.btn-inline-group > button {
+    width: 40%;
+    padding: 10px;
+    border-style: none;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 15px;
+    margin-left: 4%;
+    cursor: pointer;
+}
+
+.btn-inline-group > .linkedin {
+    color: #fff;
+    background: #5093E2;
+
+}
+
+main {
+    padding: 25px;
+}
+
+.footer-icons {
+    padding: 10px 25px 10px 25px;
+    background: #161619;
+    text-align: center;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px
+}
+
+.footer-icons > button {
+    border-style: none;
+    border-radius: 4px;
+    font-size: large;
+    margin-right: 20px;
+}
